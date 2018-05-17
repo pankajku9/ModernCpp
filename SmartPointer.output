@@ -1,0 +1,82 @@
+---------------foo------------------
+Dog is createdGunner
+I am Gunner
+Dog destryed is : Gunner
+---------------foo1------------------
+Dog is createdGunner
+I am Gunner
+2
+I am Gunner
+1
+Dog destryed is : Gunner
+---------------foo3------------------
+Dog is createdTank
+I am Tank
+I am Tank
+Dog destryed is : Tank
+---------------foo4------------------
+Dog is createdTank
+Dog is createdgunner
+Dog destryed is : gunner
+using Custom deleter
+Dog destryed is : Tank
+---------------foo5------------------
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog is created
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+using Custom deleter
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+using Custom deleter
+---------------foo6------------------
+Dog is createdd1
+Dog is createdd2
+ My frind is d2 used count:1
+ My frind is d1 used count:1
+Dog destryed is : d2
+Dog destryed is : d1
+---------------ufoo------------------
+Dog is createdd1
+I am d1
+Dog is createdd1
+I am d1
+Dog is createdd12
+Dog destryed is : d1
+ unique pointer is empty
+I am d12
+Dog is created
+Dog is created
+Dog is created
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+Dog destryed is : Nameless
+Dog destryed is : d1
+---------------ufoo1------------------
+Dog is createdd1
+I am d1
+Dog is createdd1
+I am d1
+Dog destryed is : d1
+I am d1
+Dog destryed is : d1
+---------------ufoo2------------------
+Dog is createdd1
+I am d1
+I am d1
+Dog destryed is : d1
+ unique pointer is empty
+Dog is createdd1-get
+I am d1-get
+Dog destryed is : d1-get
